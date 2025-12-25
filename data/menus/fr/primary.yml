@@ -1,13 +1,13 @@
 ---
 title: Menu principal
 items:
-- title: Personnes
-  target: "/personnes/"
+- title: Actualités
+  target: "/actualites/"
   kind: page
   new_tab: false
   children: []
-  path: "/persons"
-  file: content/fr/persons/_index.html
+  path: "/posts"
+  file: content/fr/posts/_index.html
 - title: Expositions
   target: "/expositions/"
   kind: page
@@ -36,11 +36,11 @@ items:
   children: []
   path: "/events"
   file: content/fr/events/_index.html
-- title: Actualités
-  target: "/actualites/"
+- title: Personnes
+  target: "/personnes/"
   kind: page
   new_tab: false
   children: []
-  path: "/posts"
-  file: content/fr/posts/_index.html
+  path: "/persons"
+  file: content/fr/persons/_index.html
 
